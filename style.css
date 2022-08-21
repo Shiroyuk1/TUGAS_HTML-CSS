@@ -20,7 +20,7 @@ input{
 }
 .header{
     float: left;
-    background-image: url(/asset/Roselia_logo.webp);
+    background-image: url(asset/Roselia_logo.webp);
     background-size: 150px;
     background-repeat: no-repeat;
     background-position-y: center;
